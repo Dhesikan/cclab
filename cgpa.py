@@ -1,0 +1,12 @@
+a=int(input("Maths : "))
+b=int(input("agile : "))
+c=int(input("dbms : "))
+d=int(input("java : "))
+e=int(input("cn : "))
+i=int(input("ids : "))
+f=int(input("java lab : "))
+g=int(input("dbms lab : "))
+h=int(input("ss : "))
+sum=(4*a)+(4*b)+(3*c)+(3*d)+(3*e)+(3*i)+(2*f)+(g*2)+(h)
+sum=sum/25
+print("cgpa",sum)
